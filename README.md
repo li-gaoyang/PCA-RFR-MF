@@ -1,6 +1,7 @@
 # PCA-RFR-MF
 grid100_int.txt表示100个样本点的坐标
 property100.txt表示100个样本点的属性值
+
 IDW_Interpolation.py表示IDW插值
 
 OK_ interpolation.py表示0K插值
